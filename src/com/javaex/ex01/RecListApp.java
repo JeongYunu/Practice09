@@ -18,7 +18,10 @@ public class RecListApp {
 		
 		System.out.println("#사각형 4개 리스트에 추가=========================================");
 		//사각형4개 리스트에 추가 코드 작성
-		
+		rList.add(r01);
+		rList.add(r02);
+		rList.add(r03);
+		rList.add(r04);
 		//리스트 모두를 draw하는 메소드 실행
 		
 		
